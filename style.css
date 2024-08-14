@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: system-ui, sans-serif;
+    color: white;
+    background-color: black;
+}
+
+.cava {
+    display: flex;
+    margin-top: 50%;
+    justify-content: center;
+}
+
+button {
+    width: 5rem;
+    height: 4rem;
+    white-space: 3rem;
+}
